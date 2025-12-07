@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+databases
+aiosqlite
+python-multipart
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+
+requests
+# Optional for AI (install if you want local model inference):
+sentence-transformers
+transformers
+torch
