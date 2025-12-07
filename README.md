@@ -20,7 +20,7 @@ This repository contains a complete todo application:
 
 ## Deploy
 - Frontend: Vercel (connect frontend folder as a project, build command `npm run build`, publish `dist`)
-- Backend: Render / Railway / Fly.io (use Dockerfile or run with Uvicorn)
+- Backend: Render  (use Dockerfile or run with Uvicorn)
 
 ## Notes about AI features
 - To enable stronger local AI (sentence-transformers), install `sentence-transformers` + `torch`.
